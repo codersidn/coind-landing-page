@@ -7,7 +7,7 @@ export default function Features() {
                 <div className="container">
                     <div className="wow fadeIn">
                         <h2 className="h1-responsive h1 text-center my-5">Alasan kenapa kamu harus mengunduh aplikasi kami?</h2>
-                        <p className="lead blue-grey-text text-center w-responsive mx-auto mb-5">karena hampir semua pengetahuan yang kami sediakan gratis. Kamu juga tidak ketinggalan informasi mengenai kelas, seminar, atau workshop baru yang kami sediakan.</p>
+                        <p className="lead blue-grey-text text-center w-responsive mx-auto mb-5">Karena hampir semua pengetahuan yang kami sediakan gratis. Kamu juga tidak ketinggalan informasi mengenai kelas, seminar, atau workshop baru yang kami sediakan.</p>
                     </div>
                     <div className="row">
                         <div className="col-lg-6 wow fadeInLeft text-center text-lg-left"><img className="img-fluid" src="img/screens-section.png" alt="phone image" /></div>

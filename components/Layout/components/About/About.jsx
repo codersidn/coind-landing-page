@@ -38,7 +38,7 @@ mentor secara langsung, tujuan kami adalah agar semakin banyak programmer di ind
                                 </div>
                             </div>
                         </div> */}
-                    </div><center><img className="img-fluid wow slideInUp" src="img/coind-about.png" alt="iphone image" /></center>
+                    </div><center><img className="img-fluid wow slideInUp" src="img/coind-new-logo.png" alt="iphone image" /></center>
                 </div>
             </section>
         </React.Fragment>

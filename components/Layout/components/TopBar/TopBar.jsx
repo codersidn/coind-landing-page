@@ -9,7 +9,7 @@ export default function TopBar() {
                         <div className="collapse navbar-collapse" id="navbarContent">
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item"><a className="nav-link" href="#features"><b>Fitur</b></a></li>
-                                <li className="nav-item"><a className="nav-link" href="#screenshots"><b>Screenshot</b></a></li>
+                                <li className="nav-item"><a className="nav-link" href="#screenshots"><b>Tampilan</b></a></li>
                                 <li className="nav-item"><a className="nav-link" href="#learning"><b>Materi</b></a></li>
                                 <li className="nav-item"><a className="nav-link" href="#about"><b>Tentang Kami</b></a></li>
                                 <li className="nav-item"><a className="nav-link" href="#team"><b>Tim Kami</b></a></li>
