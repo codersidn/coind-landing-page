@@ -1,0 +1,2 @@
+coind token vercel: qDIO6bZXHkATPS6dUBxDu9X1
+{"projectId":"prj_ZEGKbNU6oNPzFUFtJQz7kf4n1Wxb","orgId":"QZPjWXhS30cMI0O0QsmdbpBi"}
