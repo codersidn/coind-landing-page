@@ -18,12 +18,12 @@ export default function Screenshots() {
                                     <div className="carousel slide carousel-fade text-center" id="carousel-screenshot" data-ride="carousel">
                                         <div className="carousel-inner text-center pb-5" role="listbox">
                                             <div className="carousel-item active">
-                                                <img className="img-fluid z-depth-2" src="img/screenshot-1.jpg" alt="screenshot image"  /></div>
-                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/screenshot-2.jpg" alt="screenshot image-1" /></div>
-                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/screenshot-3.jpg" alt="screenshot image-2"  /></div>
-                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/screenshot-4.jpg" alt="screenshot image-3" /></div>
-                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/screenshot-5.jpg" alt="screenshot image-4"  /></div>
-                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/screenshot-6.jpg" alt="screenshot image-5" /></div>
+                                                <img className="img-fluid z-depth-2" src="img/s1.jpg" alt="screenshot image"  /></div>
+                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/s2.jpg" alt="screenshot image-1" /></div>
+                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/s3.jpg" alt="screenshot image-2"  /></div>
+                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/s4.jpg" alt="screenshot image-3" /></div>
+                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/s5.jpg" alt="screenshot image-4"  /></div>
+                                            <div className="carousel-item"><img className="img-fluid z-depth-2" src="img/s6.jpg" alt="screenshot image-5"  /></div>
                                         </div><a className="carousel-control-prev" href="#carousel-screenshot" role="button" data-slide="prev">
                                             <span aria-hidden="true">
                                                 <i className="fa fa-arrow-left indigo-text "></i>

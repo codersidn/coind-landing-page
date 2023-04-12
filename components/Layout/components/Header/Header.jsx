@@ -22,10 +22,13 @@ di aplikasi mobile kami.
                     </div>
                     <div className="row no-gutters wow fadeInRight" data-wow-delay="0.3s">
                     <div className="col-lg-2 col-md-3 col-sm-12 mr-md-4 justify-content-center d-flex mb-3">
-                        <a href="https://play.google.com/store/apps/details?id=com.creation.coderindonesia"> <img className="img-fluid hoverable" src="img/google-play.png" alt="google play logo" /></a>
+                        <a href="#"> <img className="img-fluid hoverable" src="img/google-play.png" alt="google play logo" /></a>
                         </div>
-                    {/* <div className="col-lg-2 col-md-3 col-sm-12 justify-content-center d-flex">
+                    {/* 
+                    https://play.google.com/store/apps/details?id=com.creation.coderindonesia
+                    <div className="col-lg-2 col-md-3 col-sm-12 justify-content-center d-flex">
                         <a href="#"> 
+
                             <img className="img-fluid hoverable" src="img/app-store.png" alt="app store logo"/>
                         </a>
                     </div> */}
@@ -36,7 +39,7 @@ di aplikasi mobile kami.
                         <div className="wow fadeInRight" data-wow-delay="0.3s">
                             <div className="h6">
                                 <i>
-                            * Tersedia di semua perangkat Android
+                            * Aplikasi masih dalam tahap pengembangan, link akan berjalan setelah produk rilis 
                             </i>
                             </div>
                         </div>

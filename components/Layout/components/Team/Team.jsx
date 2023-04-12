@@ -43,6 +43,14 @@ export default function Team() {
             social: '-',
             image: 'img/rendi.png'
         },
+        {
+            id: 6,
+            name: 'Rizky Firdaus',
+            skill: 'Front End Developer',
+            desc: 'Hi saya bertanggung jawab untuk mengimplementasikan tampilan dari produk kami untuk anda.',
+            social: 'rizky-firdaus-68567a132',
+            image: 'img/rizky.png'
+        },
         // {
         //     id: 7,
         //     name: 'Member 7',

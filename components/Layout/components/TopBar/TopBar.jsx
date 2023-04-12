@@ -15,7 +15,8 @@ export default function TopBar() {
                                 <li className="nav-item"><a className="nav-link" href="#team"><b>Tim Kami</b></a></li>
                                 <li className="nav-item"><a className="nav-link" href="#client"><b>Feedback</b></a></li>
                                 <li className="nav-item"><a className="nav-link" href="#contact"><b>Kontak</b></a></li>
-                            </ul><a className="btn btn-default btn-rounded my-0" href="https://wa.me/6285156518690"><b>Hubungi Kami</b></a>
+                            </ul>
+                            <a className="btn btn-default btn-rounded my-0" href="https://wa.me/6285156518690"><b>Hubungi Kami</b></a>
                         </div>
                     </div>
                 </nav>
