@@ -39,7 +39,7 @@ mentor secara langsung, tujuan kami adalah agar semakin banyak programmer di ind
                             </div>
                         </div> */}
                     </div>
-                    <center><a className="btn btn-default btn-rounded my-0" href="https://drive.google.com/drive/folders/178KoCIOtMDj7Wg0-D2Jjg_11Igia3mGl?usp=sharing"><b>Portofolio Kami</b></a></center>
+                    <center><a className="btn btn-default btn-rounded my-0" href="https://coind.gitbook.io/portfolio/"><b>Portofolio Kami</b></a></center>
                     <center><img className="img-fluid wow slideInUp mt-5" src="img/coind-new-logo.png" alt="iphone image" /></center>
                   
                 </div>
